@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggHoriPlot",
+    "oncran": true
+  },
+  {
+    "package": "PhaseTypeR",
+    "oncran": true
+  }
+]
