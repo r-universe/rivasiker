@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ggHoriPlot"]
 	path = ggHoriPlot
 	url = https://github.com/rivasiker/gghoriplot
-	shallow = true
-	registered = true
 [submodule "PhaseTypeR"]
 	path = PhaseTypeR
 	url = https://github.com/rivasiker/phasetyper
-	shallow = true
-	registered = true
