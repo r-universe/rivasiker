@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggHoriPlot"]
-	path = ggHoriPlot
-	url = https://github.com/rivasiker/gghoriplot
 [submodule "PhaseTypeR"]
 	path = PhaseTypeR
 	url = https://github.com/rivasiker/phasetyper
+[submodule "ggHoriPlot"]
+	path = ggHoriPlot
+	url = https://github.com/rivasiker/gghoriplot
